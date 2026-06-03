@@ -44,7 +44,7 @@ you use ChatGPT, you already have one.
 
 - Raspberry Pi Zero 2 W with headers
 - Pimoroni Display HAT Mini
-- Spy Camera for Raspberry Pi Zero
+- Spy Camera for Raspberry Pi Zero (Adafruit #3508, or generic equivalent)
 - PiSugar 3
 - MicroSD card
 - MicroSD card reader
